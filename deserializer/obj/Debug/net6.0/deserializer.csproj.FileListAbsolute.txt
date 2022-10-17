@@ -1,0 +1,16 @@
+C:\Users\macie\source\repos\deserializer\deserializer\bin\Debug\net6.0\deserializer.exe
+C:\Users\macie\source\repos\deserializer\deserializer\bin\Debug\net6.0\deserializer.deps.json
+C:\Users\macie\source\repos\deserializer\deserializer\bin\Debug\net6.0\deserializer.runtimeconfig.json
+C:\Users\macie\source\repos\deserializer\deserializer\bin\Debug\net6.0\deserializer.dll
+C:\Users\macie\source\repos\deserializer\deserializer\bin\Debug\net6.0\deserializer.pdb
+C:\Users\macie\source\repos\deserializer\deserializer\obj\Debug\net6.0\deserializer.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\deserializer\deserializer\obj\Debug\net6.0\deserializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\deserializer\deserializer\obj\Debug\net6.0\deserializer.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\deserializer\deserializer\obj\Debug\net6.0\deserializer.AssemblyInfo.cs
+C:\Users\macie\source\repos\deserializer\deserializer\obj\Debug\net6.0\deserializer.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\deserializer\deserializer\obj\Debug\net6.0\deserializer.dll
+C:\Users\macie\source\repos\deserializer\deserializer\obj\Debug\net6.0\refint\deserializer.dll
+C:\Users\macie\source\repos\deserializer\deserializer\obj\Debug\net6.0\deserializer.pdb
+C:\Users\macie\source\repos\deserializer\deserializer\obj\Debug\net6.0\deserializer.genruntimeconfig.cache
+C:\Users\macie\source\repos\deserializer\deserializer\obj\Debug\net6.0\ref\deserializer.dll
+C:\Users\macie\source\repos\deserializer\deserializer\bin\Debug\net6.0\Car.cs
